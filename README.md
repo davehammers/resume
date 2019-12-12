@@ -1,2 +1,2 @@
 # resume
-![](./daveHammersPacketfabric.pdf)
+[Resume PDF](https://github.com/davehammers/resume/blob/master/daveHammersPacketfabric.pdf)
